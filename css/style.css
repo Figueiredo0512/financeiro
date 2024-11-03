@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h1{
+    text-align: center;
+    margin: 2%;
+    color:aliceblue
+}
+
+.card{
+    align-items: middle;
+}
